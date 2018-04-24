@@ -5,7 +5,7 @@ Tags:
 
 Database, Record keeping, Drug records, protect. 
 Software: Microsoft Visual Studio 6.0 Syystem Requires : 
-Window 7 and Above License: 
+Window 7 and Above License: Eclipse Public License 2.0
 
                 == Description ==
 Drug procurement and distribution tracking system is a set of computer programs that obtains the supplies of drugs, distribute the drugs and monitors the inventory control of the drugs.
